@@ -1,61 +1,57 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Haim Bar-ilan!](https://www.linkedin.com/in/haim-bar-ilan/) 
-<!--
-**Haim-Barilan/Haim-Barilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Haim Bar-Ilan 👋
 
-Here are some ideas to get you started:
+Senior Cloud Platform Software Engineer, focused on building reliable cloud platforms, backend systems, and developer-friendly automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
 
+- ☁️ Cloud & platform engineering with a strong focus on AWS
+- 🏗️ Backend modernization, distributed systems, and cloud architecture
+- 🔐 Security, identity, TLS/mTLS, certificates, and service-to-service communication
+- 📦 Containers and Kubernetes, including Docker and Amazon EKS
+- 🪟 Windows, .NET, IIS/WCF, PowerShell, Python, and Linux/WSL
+- 🤖 Exploring practical GenAI, RAG, AI agents, and engineering automation
+- ⚙️ Always looking for ways to simplify developer workflows and reduce manual work
 
-## About Me 🚀
-🌱 Software Engineer with a demonstrated history working as a Full Stack Developer & DevOps. </br>
-👨‍💻  I am passionate about Cloud Dev & I enjoy learning new things. </br>
+## 🛠️ Technologies & Tools
 
-### Languages
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=CSharp&logoColor=7e10cc)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
-  ![Html5](https://img.shields.io/badge/-Html5-333333?style=flat&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-  
-### Libraries and Frameworks
- ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
- ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
- ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
-   
-### Infrastructure and DevOps
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
-  ![MSSQL](https://img.shields.io/badge/-MSSQL-333333?style=flat&logo=microsoft-sql-server)
-  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=F90)
-  ![AzureDevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
-  ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
-  ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
-  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=Cloudflare)
+**Cloud**
 
-### Enviroment, IDEs and Tools
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=7e10cc)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Windows](https://img.shields.io/badge/-Windows%2010-333333?style=flat&logo=windows)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
-  ![Centos](https://img.shields.io/badge/-Centos-333333?style=flat&logo=centos)
-  ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
- <!-- 
-## Let's see how I did this year:
-|![Github stats](https://github-readme-stats.vercel.app/api?username=haim-barilan&show_icons=true&theme=blueberry&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haim-barilan&show_icons=true&theme=blueberry&count_private=true&langs_count=8&layout=compact) |
-| ---------- | ----------|
--->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=haim-barilan)
+`AWS` `EC2` `EKS` `ALB` `Route 53` `CloudTrail` `VPC` `FSx` `Secrets Manager` `AppStream 2.0`
+
+**Development**
+
+`.NET` `C#` `Python` `PowerShell` `REST APIs` `WCF` `IIS`
+
+**DevOps & Platform**
+
+`Docker` `Kubernetes` `Git` `GitHub` `Azure DevOps` `Visual Studio` `WSL`
+
+**Security**
+
+`TLS` `mTLS` `PKI` `Private CA` `Certificates` `IAM`
+
+**AI & Automation**
+
+`GitHub Copilot` `Microsoft Copilot` `RAG` `AI Agents` `LLMs` `MCP`
+
+## 🚀 What I'm Interested In
+
+- Cloud-native architecture and platform engineering
+- Secure service-to-service communication
+- Kubernetes and container platforms
+- Developer experience and CI/CD automation
+- AI-assisted software engineering
+- RAG and enterprise AI agents
+- Automating repetitive engineering and operational tasks
+
+## 📚 Currently Exploring
+
+I'm particularly interested in combining **cloud engineering + AI** to build practical tools for engineering teams, such as automated code and PR analysis, intelligent troubleshooting, knowledge retrieval, and workflow automation.
+
+## 🤝 Let's Connect
+
+I'm always interested in exchanging ideas around cloud architecture, platform engineering, security, DevOps, and practical applications of AI in software development.
+
+---
+
+> Build reliable platforms. Automate the repetitive. Keep learning.
